@@ -8,6 +8,12 @@
 * [this in TypeScript... and JavaScript](https://github.com/Microsoft/TypeScript/wiki/%27this%27-in-TypeScript)
 * [jQuery: basic selectors](https://www.w3schools.com/jquery/jquery_selectors.asp)
 
+# Videos (100)
+* [My giant JavaScript Basics course is now live on YouTube. And it’s 100% free](https://medium.freecodecamp.com/my-giant-javascript-basics-course-is-now-live-on-youtube-and-its-100-free-9020a21bbc27)
+
+# Try/Catch and Throw
+* [fiddle](https://www.w3schools.com/js/tryit.asp?filename=tryjs_throw_error)
+
 # Callback
 * [Callback: example/question](http://stackoverflow.com/questions/6466031/how-to-pass-callback-as-a-parameter-into-another-function)
 * [Callback: example/code](http://jsbin.com/abozaq/4/edit?js,output)
@@ -38,9 +44,29 @@ console.log(highAndLow(numbers));
 * [Mozilla](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise)
 * [Chaining](https://html5hive.org/how-to-chain-javascript-promises/)
 * [Burger example](http://kosamari.com/notes/the-promise-of-a-burger-party)
+* [Promise All](https://jsfiddle.net/carlok/ho6sn8q6/)
 
 # Libraries
 * [HTTP promises: axios](https://github.com/mzabriskie/axios)
 
 # A word on server side JS: hapijs
 * [hapijs](hapijs.com)
+
+# Debug (minimal examples)
+* [Debugging JavaScript with Chrome DevTools Breakpoints](https://scotch.io/tutorials/debugging-javascript-with-chrome-devtools-breakpoints)
+* [Chrome Devtools](https://developers.google.com/web/tools/chrome-devtools/javascript/)
+
+# Q&A1
+* Datagrid
+* [ui-grid](http://ui-grid.info/docs/#/)
+* [ui-grid](http://angular-ui.github.io/ui-grid/)
+* [ag-grid](https://www.ag-grid.com)
+
+# Q&A2
+* undefined with/without strict
+* NaN and other types... (slide TorinoJS?)
+* TypeScript with Angular1? => Add TypeScript
+
+# Exercise:
+* [Populate li in ul with jQuery](http://jsfiddle.net/FLy4M/)
+* [Using JSON To Populate UL With jQuery](http://stackoverflow.com/questions/12847972/using-json-to-populate-ul-with-jquery)

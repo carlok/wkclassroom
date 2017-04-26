@@ -1,0 +1,24 @@
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Chrome Dev Tools</title>
+</head>
+<body>
+  <input type="text" id="name"> 
+  <button onclick="getData()">Get Input Data</button><br/>
+  <span id="dataSpan"></span>
+
+<script>
+function getData() {
+  // Get value of input
+  var data = document.getElementById('name').value;
+
+  // Get dataSpan DOM element
+  var out = document.getElementById('dataSpan');
+
+  // Assign the value of data into dataSpan html
+  out.innerHTML = data;
+}
+</script>
+</body>
+</html>
