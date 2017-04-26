@@ -5,6 +5,7 @@
 * [Nesting let variables: example](https://jsfiddle.net/carlok/8y5j56x4/)
 * [this: example in fiddle](http://jsbin.com/numowerece/edit?html,js,output)
 * [JavaScript: Function Invocation Patterns](http://doctrina.org/Javascript-Function-Invocation-Patterns.html)
+* [this in TypeScript... and JavaScript](https://github.com/Microsoft/TypeScript/wiki/%27this%27-in-TypeScript)
 
 # Callback
 * [Callback: example/question](http://stackoverflow.com/questions/6466031/how-to-pass-callback-as-a-parameter-into-another-function)
@@ -19,3 +20,7 @@ const numbers = '4 5 29 54 4 0 -214 542 -64 1 -3 6 -6';
 
 console.log(highAndLow(numbers));
 ```
+
+# Map, filter, reduce and foreach
+* [map, filter etc](http://cryto.net/~joepie91/blog/2015/05/04/functional-programming-in-javascript-map-filter-reduce/)
+* [Mozilla forEach example](https://developer.mozilla.org/it/docs/Web/JavaScript/Reference/Global_Objects/Array/forEach)
