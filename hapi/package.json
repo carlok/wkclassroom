@@ -1,0 +1,25 @@
+{
+  "name": "hto",
+  "version": "0.0.2",
+  "description": "Hapi Exercises",
+  "main": "index.js",
+  "scripts": {
+    "lint": "eslint lib/",
+    "start": "nodemon lib/index.js",
+    "start-dev": "NODE_ENV=develop nodemon lib/index.js",
+    "test": "./node_modules/lab/bin/lab -C -c --lint --lint-fix -v test/index.js",
+    "testj": "jasmine-node --color --verbose test/resolution-spec.js",
+    "cover": "istanbul cover jasmine-node --color --verbose test/"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/carlok/hto.git"
+  },
+  "author": "Carlo Perassi <carlo.perassi@gmail.com>",
+  "license": "ISC",
+  "homepage": "https://github.com/carlok/hto",
+  "dependencies": {
+    "hapi": "16.1.1"
+  },
+  "devDependencies": {}
+}

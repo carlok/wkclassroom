@@ -6,6 +6,7 @@
 * [this: example in fiddle](http://jsbin.com/numowerece/edit?html,js,output)
 * [JavaScript: Function Invocation Patterns](http://doctrina.org/Javascript-Function-Invocation-Patterns.html)
 * [this in TypeScript... and JavaScript](https://github.com/Microsoft/TypeScript/wiki/%27this%27-in-TypeScript)
+* [jQuery: basic selectors](https://www.w3schools.com/jquery/jquery_selectors.asp)
 
 # Callback
 * [Callback: example/question](http://stackoverflow.com/questions/6466031/how-to-pass-callback-as-a-parameter-into-another-function)
@@ -24,3 +25,22 @@ console.log(highAndLow(numbers));
 # Map, filter, reduce and foreach
 * [map, filter etc](http://cryto.net/~joepie91/blog/2015/05/04/functional-programming-in-javascript-map-filter-reduce/)
 * [Mozilla forEach example](https://developer.mozilla.org/it/docs/Web/JavaScript/Reference/Global_Objects/Array/forEach)
+
+# Callback
+* [jQuery GET](https://www.w3schools.com/jquery/jquery_ajax_get_post.asp)
+* [jQuery GET, documentation](https://api.jquery.com/jquery.get/)
+* [callback hell](http://callbackhell.com/)
+
+# ES6 (intro)
+* [https://webapplog.com/es6/](https://webapplog.com/es6/)
+
+# Promises
+* [Mozilla](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise)
+* [Chaining](https://html5hive.org/how-to-chain-javascript-promises/)
+* [Burger example](http://kosamari.com/notes/the-promise-of-a-burger-party)
+
+# Libraries
+* [HTTP promises: axios](https://github.com/mzabriskie/axios)
+
+# A word on server side JS: hapijs
+* [hapijs](hapijs.com)
