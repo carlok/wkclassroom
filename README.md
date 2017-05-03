@@ -70,3 +70,12 @@ console.log(highAndLow(numbers));
 # Exercise:
 * [Populate li in ul with jQuery](http://jsfiddle.net/FLy4M/)
 * [Using JSON To Populate UL With jQuery](http://stackoverflow.com/questions/12847972/using-json-to-populate-ul-with-jquery)
+
+# Webpack, TDD and E2E
+* webpack: see _webpack folder
+* see  folder redux_ck
+* e2e:
+  * [http://phantomjs.org/](http://phantomjs.org/)
+  * [http://www.protractortest.org/](http://www.protractortest.org/)
+  * [http://webdriver.io/](http://webdriver.io/)
+  * [http://nightwatchjs.org/](http://nightwatchjs.org/)

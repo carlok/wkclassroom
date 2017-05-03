@@ -5,6 +5,6 @@ function getArea(s: { width: number; height: number }): number
     return s.width * s.height / 2;
 }
 
-//const area = getArea({ width: 20, height: 30 });
-const area = getArea({ width: '20', height: 30 }); // intentionally broken
+const area = getArea({ width: 20, height: 30 });
+//const area = getArea({ width: '20', height: 30 }); // intentionally broken
 console.log(area.toString());
