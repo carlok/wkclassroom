@@ -1,3 +1,5 @@
+_webpack/node_modules
 axios/bower_components
 hapi/node_modules
 jquery_list/bower_components
+redux_ck/node_modules
