@@ -79,3 +79,7 @@ console.log(highAndLow(numbers));
   * [http://www.protractortest.org/](http://www.protractortest.org/)
   * [http://webdriver.io/](http://webdriver.io/)
   * [http://nightwatchjs.org/](http://nightwatchjs.org/)
+
+# Angular
+* [Basic exercise](https://angularjs.org/)
+* [Basic (variant) exercise](http://plnkr.co/edit/qoQdEEYPPAV29qCD3zuY?p=preview)
