@@ -83,3 +83,7 @@ console.log(highAndLow(numbers));
 # Angular
 * [Basic exercise](https://angularjs.org/)
 * [Basic (variant) exercise](http://plnkr.co/edit/qoQdEEYPPAV29qCD3zuY?p=preview)
+* [Component: example, calendar](https://gist.github.com/carlok/b79f25fb7d4d0ac17fb380acb7b5aeb2)
+* [Component: basic example](https://codepen.io/achautard/pen/mPMmzM?editors=1010)
+* [Components: a bit of theory](https://velesin.io/2016/05/18/communication-between-angular-1-5-components/)
+* [jsfiddle: examples](https://jsfiddle.net/user/carlok/fiddles/)
