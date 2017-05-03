@@ -4,9 +4,9 @@ const Hapi = require('hapi');
 
 // Create a server with a host and port
 const server = new Hapi.Server();
-server.connection({ 
-    host: 'localhost', 
-    port: 8000 
+server.connection({
+    host: 'localhost',
+    port: 8000
 });
 
 // Add the route
@@ -18,10 +18,10 @@ server.route({
         }
     },
     method: 'GET',
-    path:'/hello', 
+    path:'/hello',
     handler: function (request, reply) {
 
-        return reply({a: 'bla bla', b: [1, 2, 3]});
+        return reply({a: 'bla bla', b: [2, 3, 1, 5]});
     }
 });
 
