@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html ng-app>
+
+<head>
+  <link rel="stylesheet" href="wk.css">
+</head>
+
+<body>
+  <!--h2>Array taken from the server</h2>
+  <div ng-controller="WkController">
+    {{aaa}}
+  </div-->
+
+  <div ng-app="myApp" ng-controller="myCtrl">
+
+    <pre>{{myWelcome | json}}</pre>
+
+  </div>
+
+  <script>
+    var app = angular.module('myApp', []);
+    app.controller('myCtrl', function ($scope, $http) {
+      $http.get("http://localhost:8000/hello")
+        .then(function (response) {
+          $scope.myWelcome = response.data;
+        });
+    });
+
+  </script>
+
+
+  <script src="./bower_components/angular/angular.min.js" type="text/javascript"></script>
+  <script src="./bower_components/axios/dist/axios.min.js" type="text/javascript"></script>
+
+  <!--script src="wk.controller.js" type="text/javascript"></script-->
+
+</body>
+
+</html>

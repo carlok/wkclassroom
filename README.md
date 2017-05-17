@@ -7,6 +7,7 @@
 * [JavaScript: Function Invocation Patterns](http://doctrina.org/Javascript-Function-Invocation-Patterns.html)
 * [this in TypeScript... and JavaScript](https://github.com/Microsoft/TypeScript/wiki/%27this%27-in-TypeScript)
 * [jQuery: basic selectors](https://www.w3schools.com/jquery/jquery_selectors.asp)
+* Recap: [Top 30 JavaScript Interview Questions And Answers](http://www.techbeamers.com/javascript-interview-questions-answers/)
 
 # Videos (100)
 * [My giant JavaScript Basics course is now live on YouTube. And it’s 100% free](https://medium.freecodecamp.com/my-giant-javascript-basics-course-is-now-live-on-youtube-and-its-100-free-9020a21bbc27)
